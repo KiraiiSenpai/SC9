@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "KiraiiBOT-Md",
   "version": "1.1.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "KiraiiBOT Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "KiraiiSenpai🔞",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
